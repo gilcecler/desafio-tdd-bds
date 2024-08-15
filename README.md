@@ -4,5 +4,5 @@
 Implementar as classes, dtos...  fazendo com  o que todos os testes passem
 
 ###  Aprovação
-<img src="desafio02-orm.png" alt="desafio02-orm">
+<img src="desafio-tdd-modulo02-expert" alt="desafio-tdd">
 
